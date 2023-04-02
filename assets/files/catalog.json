@@ -1,0 +1,87 @@
+{
+    "products": [
+	   {
+	       "id": 1,
+           "name": "One Plus Nord",
+           "desc": "Android 11th generation",
+           "price": 999,
+           "color": "#33505a",
+           "image": "https://m.media-amazon.com/images/I/61RdG7c+VUL._SX679_.jpg"
+	   },
+	   {
+	       "id": 2,
+           "name": "iPhone 12 Pro",
+           "desc": "Apple 12th generation",
+           "price": 1999,
+           "color": "#FF0000",
+           "image": "https://m.media-amazon.com/images/I/712yl2wTDbL._AC_SL1500_.jpg"
+	   },
+	   {
+	       "id": 3,
+           "name": "Pixel 5",
+           "desc": "Google Pixel phone 5th generation",
+           "price": 699,
+           "color": "#00ac51",
+           "image": "https://s3b.cashify.in/gpro/uploads/2020/08/03072511/google-pixel-5-front.png"
+	   },
+	   {
+	       "id": 4,
+           "name": "M1 Macbook Air",
+           "desc": "Apple Macbook air with apple silicon",
+           "price": 1099,
+           "color": "#e0bfae",
+           "image": "https://m.media-amazon.com/images/I/71vFKBpKakL._SL1500_.jpg"
+	   },
+	   {
+	       "id": 5,
+           "name": "Playstatioin 5",
+           "desc": "Sony Playstation 5th generation",
+           "price": 500,
+           "color": "#544ee4",
+           "image": "https://www.xboom.in/wp-content/uploads/2020/12/71v7RDRYBTL._SL1500_-2.jpg"
+	  },
+	  {
+	       "id": 6,
+           "name": "Airpods Pro",
+           "desc": "Apple Airpods Pro 1st generation",
+           "price": 200,
+           "color": "#e3e4e9",
+           "image": "https://m.media-amazon.com/images/I/71zny7BTRlL._AC_SX522_.jpg"
+	  },
+	  {
+	       "id": 7,
+           "name": "iPad Pro",
+           "desc": "Apple iPad Pro 2020 edition",
+           "price": 799,
+           "color": "#f73984",
+           "image": "https://m.media-amazon.com/images/I/81+N4PFF7jS._AC_SX342_.jpg"
+	  },
+	  {
+	       "id": 8,
+           "name": "Galaxy S21 Ultra",
+           "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+           "price": 1299,
+           "color": "#1c1c1c",
+           "image": "https://m.media-amazon.com/images/I/61tefwMCDxL._AC_SS450_.jpg"
+	  },
+	  {
+           "id": 9,
+           "name": "Galaxy S21 ",
+           "desc": "Samsung Galaxy S21 2021 edition",
+           "price": 899,
+           "color": "#7c95eb",
+           "image": "https://m.media-amazon.com/images/I/81cHpJNr07L._SX679_.jpg"
+	  }
+    ]
+}	
+	    
+
+
+
+
+
+
+
+
+
+
